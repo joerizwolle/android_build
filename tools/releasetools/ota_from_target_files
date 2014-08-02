@@ -486,6 +486,7 @@ else if get_stage("%(bcb_dev)s", "stage") == "3/3" then
 
   script.ShowProgress(0.5, 0)
   script.Print("rastakat")
+  script.Print("JBL edition")
   script.Print("by rascarlo")
   script.Print("don't involve rasta in your say-say")
 
